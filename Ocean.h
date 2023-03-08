@@ -2,7 +2,7 @@
 #include <random>
 #include "Ship.h"
 
-typedef Ship* ships[10];
+using ships = Ship*[10];
 
 class Ocean {
 public:
