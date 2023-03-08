@@ -1,0 +1,3 @@
+# BattleShip_C_Plus_Plus
+
+## C++版的海战棋，和另一个JAVA版的一个功能，只不过是C++写的而已...
